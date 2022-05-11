@@ -1,1 +1,2 @@
 # OSSB
+# CC-BY
